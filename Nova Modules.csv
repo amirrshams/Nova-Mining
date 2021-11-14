@@ -1,0 +1,22 @@
+,Module,Date,File Name,Commits,Added Lines,Removed Lines,Churn
+0,nova\accelerator,2021-08-05 15:58:23+08:00,cyborg.py,2,121,25,146
+1,nova\api,2021-06-09 22:20:38+00:00,requestlog.py,21,670,373,1043
+2,nova\cmd,2021-05-12 10:50:52+08:00,common.py,16,686,267,953
+3,nova\compute,2021-06-01 11:29:38-03:00,manager.py,32,550,221,771
+4,nova\conductor,2021-06-16 10:10:29+01:00,manager.py,7,130,54,184
+5,nova\conf,2021-05-19 10:29:56+02:00,libvirt.py,13,105,216,321
+6,nova\console,2021-05-14 17:26:00+02:00,websocketproxy.py,2,24,6,30
+7,nova\db,2021-06-16 10:10:27+01:00,migration.py,38,6899,5487,12386
+8,nova\hacking,2021-08-09 15:34:40+01:00,checks.py,2,64,2,66
+9,nova\network,2021-05-12 10:50:52+08:00,neutron.py,21,437,276,713
+10,nova\notifications,2021-09-02 17:46:22+01:00,image.py,1,2,1,3
+11,nova\objects,2021-05-20 16:57:24+01:00,image_meta.py,21,580,449,1029
+12,nova\pci,2021-11-08 12:37:27+00:00,devspec.py,1,1,0,1
+13,nova\policies,2021-06-02 20:27:09-05:00,servers.py,3,212,327,539
+14,nova\privsep,2021-06-15 12:39:26+02:00,fs.py,1,11,4,15
+15,nova\releasenotes,2021-10-14 09:23:08+03:00,uwsgi-gmr-c00631db79836340.yaml,1,6,0,6
+16,nova\scheduler,2021-06-01 15:11:50+01:00,availability_zone_filter.py,14,1114,1133,2247
+17,nova\storage,2021-05-11 17:28:56+02:00,rbd_utils.py,2,10,1,11
+18,nova\tests,2021-05-10 15:04:31-04:00,test_utils.py,200,20648,13449,34097
+19,nova\virt,2021-05-26 17:26:05+01:00,config.py,34,478,531,1009
+20,nova\volume,2021-09-20 11:23:40+00:00,cinder.py,2,11,4,15
