@@ -7,7 +7,7 @@ Using python as a scripting language, the commits and churns in OpenStack Nova p
 4. Three CSV files, one that has every modifications with each commit hash, one that includes list of modifications to each file and finally, one that has changes to each module in nova subdirectory. titled "List of Modifications", "Changes to each file" and "Nova modules" respectively.
  
 ## Instructions on how to execute "Processing Nova Project.ipynb"
-Before anything, you need to make sure that python is installed on your computer. for doing so, one of the options is to download python from [here](https://www.python.org/downloads/). after python is installed, there are four dependencies that are required for this project. here's how to install them:  
+Before anything, you need to make sure that python is installed on your computer. for doing so, one of the options is to download python from [here](https://www.python.org/downloads/). after python is installed, there are Five dependencies that are required for this project. here's how to install them:  
 1. Pydriller: if Google Colab is the selected option to view the script, it can be easily installed with writing "!pip install pydriller" in the first cell, with other local options, open command prompt and enter "pip install pydriller".
 2. Pandas: if Google Colab is the selected option to view the script, Pandas is already installed. with other local options, open command prompt and enter "pip install pandas".
 3. matplotlib: if Google Colab is the selected option to view the script, matplotlib is already installed. with other local options, open command prompt and enter "pip install matplotlib".
