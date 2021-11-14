@@ -9,7 +9,7 @@ Using python as a scripting language, the commits and churns in OpenStack Nova p
 ## instructions on how to execute "Processing Nova Project.ipynb"
 There are multiple ways to execute this script. here on github, the script is read-only and can be examined without actually executing it. but for modifying and executing the script, after downloading the file, here are some of the options available:
 
-1. Google Colab: Using this powerful tool, developers can run and edit ipynb files. once the file is uploaded, it will run on colab's dedicated servers
+1. Google Colab: Using this powerful tool that is accessible from [here](https://colab.research.google.com/), developers can run and edit ipynb files. once the file is uploaded, it will run on colab's dedicated servers
 2. Jupyter Notebook: Installing Jupyter Notebook can be achived by following [this](https://jupyter.org/install) link. after installing Jupyter, the file should get uploaded on the local server that Jupyter creates and it can be easily run and manipulated ("Processing Nova Project" notebook was created using this method)
 3. Visual Studio Code:  Visual studio code can be downloaded from [here](https://code.visualstudio.com/), it is easy to use and supports ipynb files, with a more familiar look than the other two options.
 
